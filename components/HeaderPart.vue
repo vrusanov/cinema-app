@@ -5,7 +5,7 @@
     <div class="text">
       <span class="mini-title">Search Now</span>
       <h1><span>Booking</span>Now</h1>
-      <a href="#cinema-grid" class="button">View cinema</a>
+      <a href="#cinema-grid" class="button">Try it</a>
     </div>
   </div>
 </div>
@@ -13,7 +13,7 @@
 
 <script>
 export default {
-  name: "MainPage"
+  name: "HeaderPage"
 }
 </script>
 
